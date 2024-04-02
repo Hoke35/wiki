@@ -15,7 +15,7 @@ Poți vizualiza locația închiriată, respectiv **ID-ul** (numărul din dreptul
 <Image src="https://i.imgur.com/729Me2L.png" alt="Hotel" /> 
 
 ::: tip
-Dacă dorești o rută pe harta spre locația închiriată, apasă `CLICK STÂNGA` pe simbolul alăturat (cel alb din dreapta). 
+Dacă dorești o rută pe hartă spre locația închiriată, apasă `CLICK STÂNGA` pe simbolul alăturat (cel alb din dreapta). 
 ::: 
 
 ## Hoteluri
