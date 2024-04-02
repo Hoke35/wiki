@@ -30,7 +30,7 @@ Odată ajunși la checkpoint-ul cu locația amanetului, va trebui să intrăm î
   <Image src="https://i.imgur.com/0KAnsbw.png" alt="NPC prezent" />
 :::  
 
-Pentru a accesa meniul, va trebui să apăsăm tasta `E`. Acolo vom putea alege ce dorin să amanetăm.
+Pentru a accesa meniul, va trebui să apăsăm tasta `E`. Acolo vom putea alege ce dorim să amanetăm.
 
 ::: details Meniu disponibil
   <Image src="https://i.imgur.com/LslWEPV.png" alt="Meniu disponibil" />
