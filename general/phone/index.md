@@ -170,7 +170,7 @@ Pentru a închide o aplicație, respectiv a reveni pe ecranul principal fără a
 
 <Image src='https://i.imgur.com/x1mxbH9.png' width='48' height='48' />
 
-**Phonebook** reprezintă sistemul pe care un jucător îl poate utiliza pentru căuta numerele de telefon ale jucătorilor, după numele acestora.
+**Phonebook** reprezintă sistemul pe care un jucător îl poate utiliza pentru a căuta numerele de telefon ale jucătorilor, după numele acestora.
 
 ::: tip
 Aplicația **Phonebook** trebuie să fie achiziționată înainte de a putea fi utilizată, costă **$500**.
@@ -274,7 +274,7 @@ Pentru a utiliza această aplicație, trebuie să deții minim **Level 3**.
 
 <Image src='https://i.imgur.com/MbKk7qX.png' width='48' height='48' />
 
-**Walkie** reprezintă aplicatia prin care detinatorii de frecvente private pot gestiona membrii frecventei, pot schimba parola frecventei sau pot schimba modul de acces al frecventei.
+**Walkie** reprezintă aplicația prin care deținatorii de frecvențe private pot gestiona membrii frecvenței, pot schimba parola frecvenței sau pot schimba modul de acces al frecvenței.
 
 ::: tip
 Pentru a utiliza această aplicație, trebuie să deții o frecvență privată sau să fii moderator al unei frecvențe private.
