@@ -27,7 +27,7 @@ Pentru a intra la o masă de poker, asigurați-vă că aveți minimul de <Image 
 :::  
 Nu puteți intra la o masă când este un joc în desfășurare. Trebuie să așteptați până se termină și apoi să vă alăturați. După ce jocul se încheie, se va porni un cronometru de 10 secunde, timp în care puteți să vă alăturați.
 Jocul nu va începe până când nu vor fi cel puțin 2 jucători la o masă. În momentul în care intră un jucător, se va reseta cronometrul de 10 secunde. Această perioadă este oferită pentru ca jucătorii să aibă posibilitatea de a se alătura unei mese; dacă mai intră un jucător la masă, cronometrul se va reseta din nou.
-La finalul fiecărui joc, este oferit timp 10 secunde pentru ca jucătorii să poată ieși sau intra la masa.
+La finalul fiecărui joc, este oferit timp 10 secunde pentru ca jucătorii să poată ieși sau intra la masă.
 
 
 ### Casierie
